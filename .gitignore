@@ -1,0 +1,7 @@
+# IntelliJ IDEA
+.idea/
+
+# Other JetBrains IDEs
+*.iml
+*.iws
+*.ipr
